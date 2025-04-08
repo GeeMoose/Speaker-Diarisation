@@ -1,0 +1,7 @@
+huggingface_hub
+gradio
+onnxruntime
+onnxruntime-gpu==1.18.0 --extra-index-url https://aiinfra.pkgs.visualstudio.com/PublicPackages/_packaging/onnxruntime-cuda-12/pypi/simple/ --force-reinstall
+
+https://hf-mirror.com/csukuangfj/sherpa-onnx-wheels/resolve/main/cuda/1.10.29/sherpa_onnx-1.10.29%2Bcuda-cp310-cp310-linux_x86_64.whl
+#sherpa-onnx>=1.10.28
